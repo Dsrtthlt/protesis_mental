@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Wallerstein1996_40.md",
+                "file": "@Wallerstein1996_40-44.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@Wallerstein1996_40"
+              "title": "@Wallerstein1996_40-44"
             }
           }
         ],
@@ -187,7 +187,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Wallerstein1996_40.md",
+                "file": "@Wallerstein1996_40-44.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -232,7 +232,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "@Wallerstein1996_40.md"
+                "file": "@Wallerstein1996_40-44.md"
               },
               "icon": "lucide-file-signature",
               "title": "Notas al pie"
@@ -268,7 +268,7 @@
   "active": "72afb9694c992b08",
   "lastOpenFiles": [
     "@Wallerstein1996_38_2.md",
-    "@Wallerstein1996_40.md",
+    "@Wallerstein1996_40-44.md",
     "@Wallerstein1996_38.md",
     "@Wallerstein1996_37.md",
     "Wallerstein - Abrir las ciencias sociales.md",
