@@ -1,0 +1,31 @@
+# Caché de Obsidian
+.obsidian/cache
+
+# Plugins instalados (no su configuración)
+.obsidian/plugins/
+
+# Archivos generados por Pandoc y exportaciones
+*.docx
+*.pdf
+*.epub
+*.html
+*.odt
+*.rtf
+*.latex
+*.tex
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Archivos temporales de editores
+*.swp
+*.swo
+*~
+
+# Node modules (para cuando instalemos Quartz)
+node_modules/
+
+# Archivos de entorno
+.env
