@@ -3,6 +3,8 @@ aliases:
   - ciencia y filosofía
   - relación entre ciencia y filosofía
   - trabajo empírico y ciencia natural
+tags:
+  - Wallerstein1996cap1
 ---
 Durante los siglos XVII y XVIII no existía una diferencia entre la ciencia y la filosofía. No existía, en consecuencia, una búsqueda por diferenciarse de la filosofía en la búsqueda científica de las leyes de la naturaleza. Funcionaban, ciencia y filosofía, como aliadas: eran "esferas separadas pero iguales"
 

@@ -13,34 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bienvenido.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Bienvenido"
-            }
-          },
-          {
-            "id": "1192fd412fe99e26",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@Wallerstein1996_15-26.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "@Wallerstein1996_15-26"
-            }
-          },
-          {
-            "id": "6202643f12eacb3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "Wallerstein - Abrir las ciencias sociales.md",
                 "mode": "source",
                 "source": false
@@ -50,175 +22,35 @@
             }
           },
           {
-            "id": "79ad26d7c85a604b",
+            "id": "08dba49e2d3996f2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Wallerstein1996_10.md",
+                "file": "@Wallerstein1996_37.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@Wallerstein1996_10"
+              "title": "@Wallerstein1996_37"
             }
           },
           {
-            "id": "c1ebad479e5dba1e",
+            "id": "72afb9694c992b08",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Wallerstein1996_10-2.md",
+                "file": "@Wallerstein1996_40.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@Wallerstein1996_10-2"
-            }
-          },
-          {
-            "id": "a99d637399bd1106",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@Wallerstein1996_8-10.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "@Wallerstein1996_8-10"
-            }
-          },
-          {
-            "id": "9a64547ee0e92550",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@Wallerstein1996_11-14.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "@Wallerstein1996_11-14"
-            }
-          },
-          {
-            "id": "ec9df43f176745b8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@Wallerstein1996_8-2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "@Wallerstein1996_8-2"
-            }
-          },
-          {
-            "id": "63b91fb5174b3b90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@Wallerstein1996_8.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "@Wallerstein1996_8"
-            }
-          },
-          {
-            "id": "d1106ce61f994d68",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@Wallerstein1996_7.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "@Wallerstein1996_7"
-            }
-          },
-          {
-            "id": "7b10e43cba326912",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@Wallerstein1996_7-2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "@Wallerstein1996_7-2"
-            }
-          },
-          {
-            "id": "d3725a433369c8b1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@Wallerstein1996_4.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "@Wallerstein1996_4"
-            }
-          },
-          {
-            "id": "9eab7ba7939a4578",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@Wallerstein1996_4-2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "@Wallerstein1996_4-2"
-            }
-          },
-          {
-            "id": "a21722a653b6c431",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@Wallerstein1996_5.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "@Wallerstein1996_5"
-            }
-          },
-          {
-            "id": "be45a8b0c3cb3914",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sin título.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Sin título"
+              "title": "@Wallerstein1996_40"
             }
           }
         ],
-        "currentTab": 14
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -277,8 +109,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "208b72bdfc9515c5",
@@ -356,13 +187,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "orueb.md",
+                "file": "@Wallerstein1996_40.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de orueb"
+              "title": "Esquema"
             }
           },
           {
@@ -394,13 +225,26 @@
               "icon": "lucide-git-fork",
               "title": "Vista gráfica"
             }
+          },
+          {
+            "id": "2b1b8354dad4ffab",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "@Wallerstein1996_40.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Notas al pie"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -414,30 +258,40 @@
       "obsidian-excalidraw-plugin:Nuevo Bosquejo": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "quartz-syncer:Quartz Syncer publication center": false
+      "quartz-syncer:Quartz Syncer publication center": false,
+      "workspaces:Gestionar disposiciones de espacio de trabajo": false,
+      "audio-recorder:Iniciar/Detener la grabación": false,
+      "markdown-importer:Abrir el importador de Markdown": false,
+      "agent-client:Open agent client": false
     }
   },
-  "active": "d204af7aa9d63e58",
+  "active": "72afb9694c992b08",
   "lastOpenFiles": [
+    "@Wallerstein1996_38_2.md",
+    "@Wallerstein1996_40.md",
+    "@Wallerstein1996_38.md",
+    "@Wallerstein1996_37.md",
+    "Wallerstein - Abrir las ciencias sociales.md",
+    "@Wallerstein1996_7.md",
+    "@Wallerstein1996_8-10.md",
+    "@Wallerstein1996_6.md",
+    "@Wallerstein1996_4.md",
+    "@Wallerstein1996_15-26.md",
+    "@Wallerstein1996_10_2.md",
+    "@Wallerstein1996_8_2.md",
+    "@Wallerstein1996_7_2.md",
+    "@Wallerstein1996_4_2.md",
+    "Bienvenido.md",
+    "@Wallerstein1996_5.md",
+    "@Wallerstein1996_8.md",
+    "@Wallerstein1996_11-14.md",
+    "@Wallerstein1996_10.md",
+    "@Wallerstein1996_35.md",
+    "@Wallerstein1996_33_2.md",
+    "@Wallerstein1996_33.md",
     "README.md",
     "Sin título.rtf",
-    "Sin título.md",
-    "@Wallerstein1996_15-26.md",
-    "@Wallerstein1996_8-10.md",
-    "@Wallerstein1996_10-2.md",
-    "@Wallerstein1996_10.md",
-    "Wallerstein - Abrir las ciencias sociales.md",
-    "@Wallerstein1996_11-14.md",
-    "@Wallerstein1996_4-2.md",
-    "@Wallerstein1996_4.md",
-    "@Wallerstein1996_7-2.md",
-    "@Wallerstein1996_7.md",
-    "@Wallerstein1996_8.md",
-    "@Wallerstein1996_8-2.md",
-    "@Wallerstein1996_5.md",
-    "@Wallerstein1996_6.md",
     "Publicaciones DCSHUAML",
-    "orueb.md",
-    "Bienvenido.md"
+    "orueb.md"
   ]
 }

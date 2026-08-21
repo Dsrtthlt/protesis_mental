@@ -3,7 +3,9 @@ aliases:
   - visión clásica de la ciencia
   - modelo newtoniano del conocimiento
   - modelo cartesiano del conocimiento
-  - física newtoniana 
+  - física newtoniana
+tags:
+  - Wallerstein1996cap1
 ---
 
 Por visión clásica de la ciencia se entiende una comprensión de la ciencia basada en:

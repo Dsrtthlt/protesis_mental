@@ -9,5 +9,7 @@
   "obsidian-zotero-desktop-connector",
   "obsidian-citation-plugin",
   "obsidian-pandoc-reference-list",
-  "obsidian-pandoc"
+  "obsidian-pandoc",
+  "tars",
+  "agent-client"
 ]

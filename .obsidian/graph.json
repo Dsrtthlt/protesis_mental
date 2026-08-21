@@ -1,22 +1,30 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
-  "showOrphans": true,
+  "hideUnresolved": true,
+  "showOrphans": false,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": true,
-  "showArrow": false,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": true,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.5919789207912547,
+  "colorGroups": [
+    {
+      "query": "tag:#Wallerstein1996cap1  ",
+      "color": {
+        "a": 1,
+        "rgb": 6443744
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -2.6,
+  "nodeSizeMultiplier": 1.45308310991957,
+  "lineSizeMultiplier": 2.65126228775693,
+  "collapse-forces": false,
+  "centerStrength": 0,
+  "repelStrength": 12.4724297403059,
+  "linkStrength": 0.428731009830206,
+  "linkDistance": 81,
+  "scale": 0.268244509458433,
   "close": true
 }

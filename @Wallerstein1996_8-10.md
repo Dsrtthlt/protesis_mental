@@ -5,6 +5,8 @@ aliases:
   - la universidad y la organización disciplinar del conocimiento
   - la universidad y las ciencias sociales
   - la organización disciplinar del conocimiento en la universidad
+tags:
+  - Wallerstein1996cap1
 ---
 
 La universidad revivió a fines del siglo XVIII como principal sede para la creación del conocimiento. Esta fue la institución fundamental para la disciplinarización y profesionalización  del mismo:

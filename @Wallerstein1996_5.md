@@ -1,6 +1,8 @@
 ---
 aliases:
   - visión clásica de la ciencia
+tags:
+  - Wallerstein1996cap1
 ---
 
 

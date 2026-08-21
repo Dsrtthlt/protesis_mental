@@ -1,4 +1,5 @@
 
+
 ```
 Las notas que a continuación se desglosan serán usadas para la introducción al libro "El oficio de abrir las ciencias sociales" que cooordino.
 
@@ -8,7 +9,49 @@ Lo importante de esta selección es precisar los aspectos que han cambiado así 
 ```
 
 
-1. La construcción histórica de las ciencias sociales desde el siglo XVIII hasta 1945
+## 1. La construcción histórica de las ciencias sociales desde el siglo XVIII hasta 1945
+
+![[@Wallerstein1996_4]]
+
+
+![[@Wallerstein1996_4_2]]
+
+
+![[@Wallerstein1996_5]]
+
+![[@Wallerstein1996_6]]
+
+
+![[@Wallerstein1996_7]]
+
+
+![[@Wallerstein1996_7_2]]
+
+
+![[@Wallerstein1996_8]]
+
+
+![[@Wallerstein1996_8_2]]
+
+
+![[@Wallerstein1996_8-10]]
+
+
+![[@Wallerstein1996_10]]
+
+
+![[@Wallerstein1996_10_2]]
+
+
+![[@Wallerstein1996_11-14]]
+
+
+![[@Wallerstein1996_15-26]]
+
+
+![[@Wallerstein1996_33]]  
+![[@Wallerstein1996_33_2]]  
+![[@Wallerstein1996_35]]
 
 - La idea de progreso y su relación con la infinitud
 
@@ -24,4 +67,12 @@ Múltiples de los artículos abordan el papel del estado en la solución de prob
 
 
 - Las divisiones disciplinares
+```
+Todos los capítulos rebasan las divisiones disciplinares y la distinción entre disciplinas nomotéticas e idiográficas así como la división entre ciencias naturales, ciencias sociales y humanidades
+```
+
+## 2. DEBATES EN LAS CIENCIAS SOCIALES,  DE 1945 HASTA EL PRESENTE (1996)
+
+
+### 1. La validez de las distinciones entre las ciencias sociales
 

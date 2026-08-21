@@ -3,6 +3,8 @@ aliases:
   - conflicto social, ciencias sociales y universidad
   - Revolución francesa y orden social
   - física newtoniana y física social
+tags:
+  - Wallerstein1996cap1
 ---
 
 La revolución Francesa hizo patente la necesidad de estudiar empíricamente el cambio social y abandonar las teorías de un supuesto orden natural, haciendo patente la separación entre ciencia y filosofía. El propósito era organizar y racionalizar el cambio y para ello era necesario estudiarlo y comprender sus reglas de forma positiva tomando como modelo la física newtoniana: la física social de Comte es el reflejo de ello:
