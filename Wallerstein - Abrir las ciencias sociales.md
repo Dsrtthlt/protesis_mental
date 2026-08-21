@@ -76,3 +76,7 @@ Todos los capítulos rebasan las divisiones disciplinares y la distinción entre
 
 ### 1. La validez de las distinciones entre las ciencias sociales
 
+### 2. El grado en que el patrimonio heredado es parroquial
+
+### 3. La realidad y la validez de la distinción entre las "dos culturas"
+
