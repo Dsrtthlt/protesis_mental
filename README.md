@@ -24,3 +24,5 @@ Las notas se organizan por temas y se conectan mediante enlaces bidireccionales,
 ---
 
 © 2026 Dsrtthlt. Notas de investigación personal.
+
+jdghdjgkdj,d,jhf @
