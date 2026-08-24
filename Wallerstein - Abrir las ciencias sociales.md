@@ -76,7 +76,36 @@ Todos los capítulos rebasan las divisiones disciplinares y la distinción entre
 
 ### 1. La validez de las distinciones entre las ciencias sociales
 
+Lo "estudios de área" evidenciaron que las divisiones de las disciplinas eran contingentes y encontraban un fundamento en la segmentación del mundo en ámbitos discretos: política, economía, sociedad.
+
+Su emergencia responde a un cambio en la organización política y la consolidación de Estados Unidos como polo hegemónico en lo económico, lo político y lo cultural. 
+
+Estos estudios no tomaban estos ámbitos sino regiones unificadas por algún criterio compartido 
+
 ### 2. El grado en que el patrimonio heredado es parroquial
 
+```
+Lo relevante de este apartado está en la relevancia de la crítica al parroquialismo del conocimiento occidental, al interés por los supuestos no cuestionados que orientan la producción institucionalizada del conocimiento y la validez de buscar otras formas de dar cuenta de la realidad. De acuerdo con Wallerstein, esto va más allá del reclutamiento de profesionales e involucra la posibilidad de que se generen razonamientos teóricos sobre los temas de estudio "legítimos" y ña forma de abordarlos. En eso consiste la apertura de las ciencias sociales, un reclamo que supone un proceso de "descolonización"
+```
+
+¿Cómo se relacionan universalismo, parroquialismo y decolonización?
+
+`El universalismo alude a las aspiraciones del conocimiento científico de ser válido con independencia del lugar en el que se formule o se aplique, de generar enunciados predictivos que posibiliten la cuantificación y la administración. Bajo esta premisa funcionaron las ciencias sociales nomotéticas.
+
+`El parroquialismo cultural hace referencia al dominio de ciertas ideas o afirmaciones _a priori_ en la creación del conocimiento científico en occidente hasta la década de 1970: son ideas parroquiales porque se aceptan de manera acrítica, como expectatívas legítimas que hay que cumplir.
+
+`Entonces la universalidad de la ciencia se representa un principio parroquial porque se acepta que las ciencias sociales nomotéticas pueden aspirar legítimamente a esa universalidad aún cuando reconocen la tensión entre esta y las condiciones bajo las cuales se produce dicho conocimiento.
+
+`La universalidad del conocimiento es una premisa parroquial porque se basa en (1) una supuesta neutralidad —pues un saber universal es independiente de quien lo formula— y (2) una superioridad de occidente fundamentada en sus realizaciones tecnológicas producto de una visión superior del mundo: la ciencia.
+
+`La descolonización del saber hace referencia al proceso intelectual que cuestiona al parroquialismo y desafía el supuesto universalismo del saber científico occidental señalando sesgos en sus formulaciones. Este proceso es posible no solo por la expansión cuantitativa del número de científicos sociales, sino por los cuestionamientos que formulaban: "el argumento de esas voces nuevas era también que el razonamiento de las ciencias sociales […] contenía presupuestos que en muchos casos incorporaban prejuicios o modos de razonamiento _a priori_ que no tenían justificación teórica ni empírica.
+
+
+`Las ciencias sociales nomotéticas enfrentan el problema de saber que las afirmaciones de este tipo son posibles solo dentro de un ordenamiento social específico y sus respectivas prácticas.
+
+¿De qué manera la descolonización del pensamiento parroquial impacta a las pretensiones de universalismo al que aspiran las ciencias sociales?
+
+`La descolonización entendida como cuestionamiento de los supuestos a priori impacta de dos formas: (1) señalando que la universalidad del conocimiento es producto de condiciones históricas particulares que presuponen que existe una forma de conocimiento legítimo (el de la ciencia) validado por la superioridad de la cultura dentro de la cual se origina, y, como consecuencia de lo anterior, (2) un cuestionamiento sobre la posibilidad de incorporar otras formas de saber sin que derive en múltiples particularismos ni renuncie al universalismo, sino que de lugar a un universalismo pliralista que nos permita "captar la riqueza de las realidades sociales en que vivimos y hemos vivido."
 ### 3. La realidad y la validez de la distinción entre las "dos culturas"
 
+`La crítica a las dos culturas tambiénn es un elemento que retoman algunos de los capítulos del libro: el 2, la entrevista

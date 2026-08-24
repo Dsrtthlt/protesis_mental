@@ -4,5 +4,9 @@
   "zoteroGroups": [],
   "renderCitations": true,
   "renderCitationsReadingMode": true,
-  "renderLinkCitations": true
+  "renderLinkCitations": true,
+  "pathToBibliography": "/Users/opb/Documents/Obsidian/protesis_mental/protesis_mental.bib",
+  "cslStyleURL": "https://raw.githubusercontent.com/citation-style-language/styles/master/apa-no-ampersand.csl",
+  "cslLang": "es-MX",
+  "hideLinks": true
 }
