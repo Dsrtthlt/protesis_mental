@@ -1,3 +1,9 @@
+---
+title: El moderno sistema mundial
+authors: Immanuel Wallerstein
+year: 2016
+---
+
 
 
 ```
