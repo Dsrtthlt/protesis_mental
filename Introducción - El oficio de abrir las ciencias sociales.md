@@ -1,4 +1,5 @@
+[[Borrador_Introducción_El oficio de abrir las ciencias sociales]]
 
 El 1996 se publicaba en español una obra que daba cuenta de los procesos que llevaron a la consolidación de las ciencias sociales como formas institucionalizadas de conocer la realidad. Se trata del informe coordinado por Immanuel Wallerstein titulado "Abrir las ciencias sociales", donde se diagnostica su quehacer a la luz de los problemas que las consolidan como ámbitos legítimos del conocimiento de lo social [@Wallerstein1996].
 
-¿Cómo diagnosticar la relevancia de disciplinas como la sociología, la ciencia política, la antropología o la pedagogía? En un contexto donde avances tecnológicos como los que representa la Inteligencia Artificial permiten afirmar que muchas áreas del conocimiento serán llevadas a cabo por tecnologías orientadas por ella —o incluso afirmar que otras desaparecerán o serán prescindibles— 
+Diagnosticar la relevancia de disciplinas como la sociología, la ciencia política, la antropología o la pedagogía? En un contexto donde avances tecnológicos como los que representa la Inteligencia Artificial permiten afirmar que muchas áreas del conocimiento serán llevadas a cabo por tecnologías orientadas por ella —o incluso afirmar que otras desaparecerán o serán prescindibles— 

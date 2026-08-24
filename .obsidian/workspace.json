@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notas de Lectura/@Wallerstein2016.md",
+                "file": "Borrador_Introducción_El oficio de abrir las ciencias sociales.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "@Wallerstein2016"
+              "title": "Borrador_Introducción_El oficio de abrir las ciencias sociales"
             }
           }
         ]
@@ -243,39 +243,41 @@
       "agent-client:Open agent client": false
     }
   },
-  "active": "f9c831f4a2c644e1",
+  "active": "7d472164ee7adef2",
   "lastOpenFiles": [
-    "Wallerstein - Abrir las ciencias sociales.md",
-    "Notas de Lectura/@Wallerstein2016.md",
     "Introducción - El oficio de abrir las ciencias sociales.md",
+    "Notas de Lectura/@Wallerstein2016.md",
+    "Borrador_Introducción_El oficio de abrir las ciencias sociales.md",
+    "UAM_Lerma",
+    "@Wallerstein2016/@Wallerstein1996_4.md",
+    "@Wallerstein2016",
+    "Wallerstein - Abrir las ciencias sociales.md",
     "config_obsidian_git_personal_qwen.pdf",
     "Pandoc",
     "Notas de Lectura",
     "protesis_mental.bib",
     "README.md",
-    "@Wallerstein1996_33.md",
-    "@Wallerstein1996_10.md",
-    "@Wallerstein1996_37.md",
-    "@Wallerstein1996_40-44.md",
+    "@Wallerstein2016/@Wallerstein1996_33.md",
+    "@Wallerstein2016/@Wallerstein1996_10.md",
+    "@Wallerstein2016/@Wallerstein1996_37.md",
+    "@Wallerstein2016/@Wallerstein1996_40-44.md",
     "@Wallerstein1996_38_2.md",
     "@Wallerstein1996_38.md",
-    "@Wallerstein1996_7.md",
-    "@Wallerstein1996_8-10.md",
-    "@Wallerstein1996_6.md",
-    "@Wallerstein1996_4.md",
-    "@Wallerstein1996_15-26.md",
-    "@Wallerstein1996_10_2.md",
-    "@Wallerstein1996_8_2.md",
-    "@Wallerstein1996_7_2.md",
-    "@Wallerstein1996_4_2.md",
+    "@Wallerstein2016/@Wallerstein1996_7.md",
+    "@Wallerstein2016/@Wallerstein1996_8-10.md",
+    "@Wallerstein2016/@Wallerstein1996_6.md",
+    "@Wallerstein2016/@Wallerstein1996_15-26.md",
+    "@Wallerstein2016/@Wallerstein1996_10_2.md",
+    "@Wallerstein2016/@Wallerstein1996_8_2.md",
+    "@Wallerstein2016/@Wallerstein1996_7_2.md",
+    "@Wallerstein2016/@Wallerstein1996_4_2.md",
     "Bienvenido.md",
-    "@Wallerstein1996_5.md",
-    "@Wallerstein1996_8.md",
-    "@Wallerstein1996_11-14.md",
-    "@Wallerstein1996_35.md",
-    "@Wallerstein1996_33_2.md",
+    "@Wallerstein2016/@Wallerstein1996_5.md",
+    "@Wallerstein2016/@Wallerstein1996_8.md",
+    "@Wallerstein2016/@Wallerstein1996_11-14.md",
+    "@Wallerstein2016/@Wallerstein1996_35.md",
+    "@Wallerstein2016/@Wallerstein1996_33_2.md",
     "Sin título.rtf",
-    "Publicaciones DCSHUAML",
-    "orueb.md"
+    "Publicaciones DCSHUAML"
   ]
 }
