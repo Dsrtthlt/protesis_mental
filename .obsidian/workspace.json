@@ -224,7 +224,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 329.6640625
+    "width": 329.6640625,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -243,7 +244,7 @@
       "agent-client:Open agent client": false
     }
   },
-  "active": "7d472164ee7adef2",
+  "active": "f9c831f4a2c644e1",
   "lastOpenFiles": [
     "Introducción - El oficio de abrir las ciencias sociales.md",
     "Notas de Lectura/@Wallerstein2016.md",
