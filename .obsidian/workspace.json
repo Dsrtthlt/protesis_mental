@@ -112,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "orueb.md",
+                "file": "Borrador_Introducción_El oficio de abrir las ciencias sociales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +122,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de orueb"
+              "title": "Enlaces entrantes"
             }
           },
           {
@@ -189,8 +189,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -199,8 +199,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -235,12 +235,11 @@
               "title": "References"
             }
           }
-        ],
-        "currentTab": 9
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 283.98046875
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -259,7 +258,7 @@
       "agent-client:Open agent client": false
     }
   },
-  "active": "69c51435a82f6c81",
+  "active": "5acfdf6353df7e69",
   "lastOpenFiles": [
     "Introducción - El oficio de abrir las ciencias sociales.md",
     "Borrador - Del teorema de Turing al Teorema de Durkheim.md",
