@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "208b72bdfc9515c5",
@@ -219,11 +220,12 @@
               "title": "References"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "horizontal",
-    "width": 283.98046875
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
