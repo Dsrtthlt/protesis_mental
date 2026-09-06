@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "208b72bdfc9515c5",
@@ -292,7 +293,7 @@
       "agent-client:Open agent client": false
     }
   },
-  "active": "63042d971bd2b1af",
+  "active": "69c51435a82f6c81",
   "lastOpenFiles": [
     "@Wallerstein2016/@Wallerstein1996_37.md",
     "Introducción - El oficio de abrir las ciencias sociales.md",
