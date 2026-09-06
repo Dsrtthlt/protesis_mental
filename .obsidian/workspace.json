@@ -159,7 +159,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notas de Lectura/@Wallerstein2016.md",
+                "file": "Introducción - El oficio de abrir las ciencias sociales.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -204,7 +204,7 @@
             "state": {
               "type": "footnotes",
               "state": {
-                "file": "Notas de Lectura/@Wallerstein2016.md"
+                "file": "Introducción - El oficio de abrir las ciencias sociales.md"
               },
               "icon": "lucide-file-signature",
               "title": "Notas al pie"
@@ -221,11 +221,11 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 338.2734375
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -244,7 +244,7 @@
       "agent-client:Open agent client": false
     }
   },
-  "active": "69c51435a82f6c81",
+  "active": "63042d971bd2b1af",
   "lastOpenFiles": [
     "Borrador_Introducción_El oficio de abrir las ciencias sociales.md",
     "Introducción - El oficio de abrir las ciencias sociales.md",
